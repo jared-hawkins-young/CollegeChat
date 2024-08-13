@@ -2,9 +2,17 @@ import { Example } from "./Example";
 
 import styles from "./Example.module.css";
 
-const DEFAULT_EXAMPLES: string[] = ["What is niner course pack?", "Im hungry for mexican food on campus where should I go?", "What is UNCC clubs?"];
+const DEFAULT_EXAMPLES: string[] = [
+    "What is niner course pack?",
+    "Im hungry for mexican food on campus where should I go?",
+    "How can I apply for the Desk Assistant position?"
+];
 
-const GPT4V_EXAMPLES: string[] = ["What is niner course pack?", "Im hungry for mexican food on campus where should I go?", "What is UNCC clubs?"];
+const GPT4V_EXAMPLES: string[] = [
+    "What is niner course pack?",
+    "Im hungry for mexican food on campus where should I go?",
+    "How can I apply for the Desk Assistant position?"
+];
 
 interface Props {
     onExampleClicked: (value: string) => void;

@@ -1,0 +1,41 @@
+Go to Charlotte.edu
+
+Prospective Students
+
+Faculty and Staff
+
+Current Students
+
+Alumni and Friends
+
+Main Menu
+
+Knowing where to park just got easier
+
+
+
+If you had the right audio equipment poised over the UNC Charlotte campus on a weekday morning at 10:45 a.m., you might pick up a lot of whispers that sound a lot like, “Please, please, please let me find a close parking spot.”
+
+That’s the peak time for parking demand on campus, so it’s unlikely that the pleading chorus will break into songs of joy.
+
+But now commuters can take on campus parking with more than an under-the-breath hope for luck. Five students, with assistance from Parking and Transportation Services (PaTS), Business Services, and Facilities Information Systems (FIS), have developed a real-time mobile website that shows space availability for every parking deck.
+
+Parkingavailability.uncc.edu started as a computer science senior capstone project for students Taylor Atkins, Dillon Brys, Kevin Huynh, Michael Long and John Sorensen. They shared their idea for a parking app with Doug Lape, PaTS director, and Gabe Gerber, business systems analyst for Business Services, who committed to assist and share parking data. Facilities Information Systems (FIS) developers used the students’ concept and built the mobile-friendly website. 
+
+After several months of trial, error, testing and waiting until counting sensors for the new Union Deck expansion were online, parkingavailability.uncc.edu is ready to go as a responsive, mobile website. While currently still in beta-stage, a full app within the MyPark app (mypark.uncc.edu) and Alexa and Siri integrations are coming. Surface lot data will be added to the availability list over time, as sensors are installed.
+
+Benefits and highlights
+
+One of the students on the team, Michael Long, said that the most difficult part was the coding. The surprising part, he said, was “actually seeing the numbers and how big a project it is to get all the sensors put in.“
+
+Long, who graduated in December, relates to the angst of those who drive around campus searching for close parking in a panic because they’re already late as it is. “With this [mobile webpage], you can just pull it up and see, ‘Oh there’s parking here!’ and then actually get to class on time. Hopefully, it will reduce a lot of friction for students,” he said.
+
+PaTS has long had the goal of providing UNC Charlotte with a parking availability app. The commitment of Long, Atkins, Brys, Huynh and Sorensen along with the expertise and assistance of FIS turned out to be the right combination to bring it to completion.
+
+Campus Links
+
+Resources
+
+Stay In Touch
+
+The University of North Carolina at Charlotte
